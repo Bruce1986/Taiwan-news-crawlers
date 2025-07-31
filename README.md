@@ -25,7 +25,7 @@ $ scrapy crawl apple -o apple_news.json
 ## Prerequisites
 
 - Python3
-- Scrapy 1.3.0
+- Scrapy 2.13.3
 
 ## Usage
 ```scrapy crawl <spider> -o <output_name>```
